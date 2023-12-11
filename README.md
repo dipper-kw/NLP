@@ -1,4 +1,4 @@
-# NLP Summary and Solution from CS224N
+# NLP Summary and Solution for CS224N
 
 ## Overview
 
